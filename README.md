@@ -1,2 +1,2 @@
-w# AI-267
+# AI-267
 Developing and Deploying AI/ML Applications on Red Hat OpenShift AI
